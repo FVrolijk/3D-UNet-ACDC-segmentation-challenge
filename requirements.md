@@ -1,0 +1,16 @@
+numpy<2
+pytorch-ignite
+monai
+torch
+nibabel
+scikit-learn
+wandb
+pandas 
+pathlib 
+matplotlib.pyplot 
+sklearn.model_selection 
+tqdm 
+nibabel 
+pickle
+torch
+os
