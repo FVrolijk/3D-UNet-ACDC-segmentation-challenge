@@ -1,0 +1,15 @@
+# Core dependencies/packages
+torch
+numpy<2.0
+pandas
+matplotlib
+scikit-learn
+tqdm
+nibabel
+SimpleITK
+pickle5
+
+# Medical imaging dependencies
+monai
+pytorch-ignite
+wandb
